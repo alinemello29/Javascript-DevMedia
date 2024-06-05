@@ -1,0 +1,1 @@
+const hoje = new Date( );
